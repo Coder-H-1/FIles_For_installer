@@ -1,0 +1,12 @@
+
+taskmanager = "C:\\Windows\\System32\\Taskmgr.exe"
+DiskManagement  = "C:\\Windows\\System32\\Diskmgmt.msc"
+CMD = "C:\\Windows\\System32\\cmd.exe"
+Notepad  = "C:\\Windows\\notepad.exe"
+fileMGMT = "C:\\Windows\\explorer.exe"
+regEditor = "C:\\Windows\\regedit.exe"
+DeviceMGMT = "C:\\Windows\\System32\\Devmgmt.msc"
+DeviceInfo = "C:\\Windows\\System32\\dxdiag.exe"
+MSConfig = "C:\\Windows\\System32\\msconfig.exe"
+MSINFO = "C:\\Windows\\System32\\msinfo32.exe"
+Chrome_exe = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
